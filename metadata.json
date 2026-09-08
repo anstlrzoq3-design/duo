@@ -1,0 +1,6 @@
+{
+  "name": "Global Gamer Duo Matchmaking Studio",
+  "description": "Global esports gamer partner and duo matchmaking platform to browse player cards, filter game modes and ranks, post recruitment cards, and connect instantly.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
